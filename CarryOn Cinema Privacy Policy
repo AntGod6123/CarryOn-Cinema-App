@@ -1,0 +1,88 @@
+Privacy Policy
+
+Last Updated: 16 February 2026
+
+1. Introduction
+
+Welcome to CarryOn Cinema ("the App").
+Your privacy is important. This Privacy Policy explains what information is collected, used, or shared when you use the App.
+CarryOn Cinema does not collect, store, transmit, or sell personal data.
+The App is designed for users of all ages and complies with applicable privacy standards for general audiences.
+
+2. Information We Collect
+
+We do not collect any personal information.
+Specifically:
+No account registration
+No names, emails, or phone numbers
+No analytics tracking
+No advertising identifiers
+No location tracking
+No background data collection
+No behavioral tracking
+No telemetry
+The App operates locally on your device.
+
+3. Media & Local Content
+
+CarryOn Cinema is designed to:
+Play media files stored locally
+Connect to user-configured servers (if applicable)
+Cache metadata locally for offline use
+All media and metadata remain:
+On your device
+On your self-hosted server
+Under your control
+The App does not transmit your media library information to the developer or any third party.
+
+4. Permissions
+
+The App may request device permissions strictly for functionality purposes, such as:
+Storage access (to read local media files)
+Network access (to connect to user-configured servers or metadata providers)
+These permissions are used only for core functionality and are never used for tracking or data collection.
+
+5. Third-Party Services
+
+CarryOn Cinema does not include:
+Third-party advertising SDKs
+Analytics SDKs
+Tracking frameworks
+Social media integrations
+If the user chooses to enable metadata or subtitle fetching from external providers, those requests are made directly from the device to the selected provider according to that provider’s privacy policy.
+The developer does not proxy, log, or store those requests.
+
+6. Children’s Privacy
+
+CarryOn Cinema is rated for all ages.
+Because the App does not collect personal information, it complies with children’s privacy regulations such as:
+COPPA (Children’s Online Privacy Protection Act)
+GDPR (where applicable to personal data collection)
+No personal data is knowingly collected from children or adults.
+
+7. Data Security
+
+Since no personal data is collected or transmitted:
+There are no user databases
+There are no user profiles
+There is no centralized data storage
+All data remains under user control.
+
+8. Data Selling or Sharing
+
+CarryOn Cinema:
+Does not sell data
+Does not share data
+Does not monetize user information
+There is no user data to sell or share.
+
+9. Changes to This Policy
+
+If this Privacy Policy changes, the updated version will be published in the app repository and/or app store listing with a revised "Last Updated" date.
+
+10. Contact
+
+If you have questions about this Privacy Policy, you may contact:
+
+Developer Name: CarryOn Cinema techs
+Email: carryon.cinema.tech@gmail.com
