@@ -11,7 +11,8 @@ There needs a dropdown under search bar that is associaed with Tab's different v
 
 Casting:
 
-irplay casting capability?
+Airplay casting capability?
+
 
 Metadata and images:
 
@@ -21,6 +22,7 @@ Embedded Image Extractor
 Hold and drag for metadata and image fetchers to  increase or decrease the priority compared to the other enabled metadata or image fetchers. 
 Setting at initial builld, Or saving opens up setting and doesn't start scan until save for the first time?
 
+
 Libraries:
 
 Smart Collection: tags, Ratings, etc.
@@ -28,15 +30,18 @@ Password protected library for webpage viewing
 Add ability to access Onedrive, Google Drive, and Network storage for adding folders. Remote storage being displayed on side where folder selection is. 
 Setting to ignore hero image at top of main pages
 
+
 Audiobooks:
 
 Create an audiobooks library type. Continue listening will be shown in Audiobooks library types. 
 Open Library (Metadata and Image DB inclusion)
 
+
 Other:
 
 Other Hover for preview/trailer or Hero card plays trailers.
 Other based metadata and images have it specify an option to set Adult in the fetch 
+
 
 Photos:
 
@@ -44,6 +49,7 @@ Photos change every 5 seconds in photoviewer?
 Two finger spread functionality to Zoom in and out in the photo viewer. 
 Photos face scanning for collection creation, etc. Tie in an AI?
 Search working
+
 
 Music:
 
@@ -65,9 +71,12 @@ Add TMDB search for Main Series' trailer?
 Theme songs, with setting for turning on/off?
 Ability to mark episode watched and have it show continue watching.
 
+
 Karaoke:
 
 Remove the countdown on the "Karaoke default video"
+Bluetooth Microphone input capable.
+
 
 Security:
 
@@ -80,11 +89,13 @@ Users:
 Users with accounts and Library access (this is resource dependent) Rule for number of users.
 User rating setting.
 
+
 Backup:
 
 Import/export collections
 Backup feature for DB
 Trakt inclusion for managing watch status across platforms.
+
 
 Settings:
 
