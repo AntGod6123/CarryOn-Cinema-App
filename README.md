@@ -1,6 +1,6 @@
 # CarryOn Cinema
 
-CarryOn Cinema is a home media hub for your Android device. It brings your personal movie, show, music, and photo collections together, adds rich descriptions and artwork, and lets you play them back on your phone or TV. Friends can also use a simple web page to find songs and line up a karaoke queue while you stay in control on the device.
+CarryOn Cinema is a home media hub for your Android device. It brings your personal movie, show, music, and photo collections together, adds rich descriptions and artwork, and lets you play them back on your phone or TV or cast them to an acceptable cast receiver. CarryOn Cinema also includes a Live TV section for users to add .m3u8 links to live streaming media. Friends can also use the simple web page to find play movies, watch Live TV and line up a karaoke queue while you stay in control on the device.
 
 ## What you can do
 
