@@ -29,8 +29,3 @@ CarryOn Cinema is a home media hub for your Android device. It brings your perso
 
 Copyright © 2026 CarryOn Cinema
 All rights reserved.
-
-## Engineering checklists
-
-- Post-billing hardening plan: `docs/post_billing_hardening_checklist.md`.
-
